@@ -30,5 +30,6 @@ This project aims to optimize the allocation of capital among various financial 
 
 ##  Author
 
-Raghav Kapoor
-🔗 GitHub: [@kdraghav2005](https://github.com/kdraghav2005)
+
+RITIK SINGH
+🔗 GitHub: [@RitikSingh02](https://github.com/RitikSingh02)
